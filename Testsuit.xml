@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"> <!--meka api ganne run karahama warning ekak denawa ethanin-->
+
+<suite name="test_suite"> <!--methanata namak denna one-->
+    <test name="test_cases"><!--methanatath namak denna one-->
+        <classes>
+            <class name="create_driver"/>
+        </classes>
+    </test>
+</suite>
